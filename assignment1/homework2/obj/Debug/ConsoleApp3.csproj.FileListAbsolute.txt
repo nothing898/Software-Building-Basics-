@@ -1,0 +1,9 @@
+D:\cSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\cSharp\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\cSharp\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.Form1.resources
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.GenerateResource.cache
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\cSharp\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
