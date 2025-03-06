@@ -1,0 +1,6 @@
+ConsoleApp2/
+MockSchoolManagement/
+Test1/
+**/bin
+**/.vs
+**/obj
